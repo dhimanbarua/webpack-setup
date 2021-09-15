@@ -1,0 +1,1 @@
+Simple webpack setup for gutenberg block
